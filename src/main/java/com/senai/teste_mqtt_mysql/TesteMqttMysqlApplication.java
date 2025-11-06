@@ -10,4 +10,4 @@ public class TesteMqttMysqlApplication {
 		SpringApplication.run(TesteMqttMysqlApplication.class, args);
 	}
 
-}
+
